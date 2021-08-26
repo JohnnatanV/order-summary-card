@@ -48,6 +48,7 @@ div {
 }
 
 h2 {
+  color: hsl(223, 47%, 23%);
   margin-top: 40px;
   margin-bottom: 0;
   font-size: 1.6em;
@@ -101,6 +102,10 @@ h2 {
 b,
 p {
   margin: 0;
+}
+
+.price b {
+  color: hsl(223, 47%, 23%);
 }
 
 .price p {
